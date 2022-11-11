@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       
       <header className="App-header">
-      <h1>Este es un titulo de prueba</h1>
+      <h1>Este es un titulo de prueba 2</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
         <p>
