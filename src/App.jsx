@@ -10,7 +10,7 @@ function App() {
       
       <header className="App-header">
       <h1>Este es un titulo de prueba 2</h1>
-      <h1>Este es un titulo de prueba PRODUCCION</h1>
+      <h1>Este es un titulo de prueba PRODUCCION m</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Vite + React!</p>
         <p>
