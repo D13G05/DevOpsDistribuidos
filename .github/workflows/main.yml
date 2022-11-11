@@ -29,9 +29,6 @@ jobs:
       
       - name: Dependecies
         run: npm ci
-      
-      - name: Build
-        run: npm run build
         
   deploy_on_qa:
     name: Deploy on QA
